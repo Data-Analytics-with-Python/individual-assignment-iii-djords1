@@ -1,0 +1,4 @@
+
+Question 1: X includes variables that should have been excluded: -4
+Did not use an explicit KFold(shuffle=True, random_state=20) as required: -2
+Total: 94/100
